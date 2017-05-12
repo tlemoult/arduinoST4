@@ -10,7 +10,7 @@ This project based on read to go commercial product. You just need to do mechani
 * Official Arduino Uno board https://store.arduino.cc/arduino-uno-rev3
 * Official 4 relay shield http://www.arduino.org/products/shields/arduino-4-relays-shield
 * output connexion described in hardware folder.
-![alt text](https://raw.githubusercontent.com/tlemoult/arduinoST4/master/hard/arduino-ST4-connection.pjg)
+![alt text](https://raw.githubusercontent.com/tlemoult/arduinoST4/master/hard/arduino-ST4-connection.jpg)
 
 ## On the PC side, you need:
 * python 2.7  https://www.python.org/downloads/

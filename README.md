@@ -14,15 +14,14 @@ This project based on read to go commercial product. You just need to do mechani
 
 ## On the PC side, you need:
 * python 2.7  https://www.python.org/downloads/
-* pyserial lib
+* pyserial lib  https://pypi.python.org/pypi/pyserial/2.7
 
 ## How to run
 * install python and pyserial
 * on Windows add python path in you PATH environnement variable.
-* open cmd command on windows, or terminal on linux.
+* in a cmd command on windows, or terminal on linux, run the arduinoST4.py you grab in gui folder. For exemple if your arduino serial port is COM3.
 ```
  python arduinoST4.py COM3
 ```
 
 This projet was tested on Windows 10 and Linux Ubuntu 16.04LTS
-
